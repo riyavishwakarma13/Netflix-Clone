@@ -29,7 +29,7 @@ body {
   background-image: linear-gradient(
     to top,
     rgba(0, 0, 0, 0.8) 0,
-    rgba(0, 0, 0, 0) 60%,
+    rgba(0, 0, 0, 0.3) 50%,
     rgba(0, 0, 0, 0.8) 100%
   );
 }
@@ -90,4 +90,19 @@ body {
   align-items: center;
   font-size: 15px;
   font-weight: 500;
+}
+
+.hero-content {
+  position: absolute;
+  /* max-width: 1500px; */
+  left: 50%;
+  top: 50%;
+  color: white;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.hero-title {
+  font-size: 2.7vmax;
+  font-weight: 800;
 }
