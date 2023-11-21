@@ -276,6 +276,57 @@ section {
   overflow: hidden;
 }
 
+.faq-container {
+  padding: 5vmax 1px;
+  background-color: black;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  align-items: center;
+  gap: 20px;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.faq {
+  background-color: rgb(45, 45, 45);
+  color: white;
+  width: 60%;
+  margin: 10px auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 10px;
+  padding: 5px 20px;
+}
+
+.faq:hover {
+  background-color: rgb(65, 65, 65);
+  cursor: pointer;
+}
+
+.faq-title {
+  font-size: 22px;
+  font-weight: 500;
+}
+
+.plus-icon {
+  width: 35px;
+  height: 35px;
+}
+
+@media (max-width: 1000px) {
+  .faq {
+    width: 80%;
+  }
+}
+
 @media (max-width: 650px) {
   .data-field {
     flex-direction: column;
