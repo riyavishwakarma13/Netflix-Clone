@@ -275,4 +275,7 @@ section {
     height: 60px;
     object-fit: cover;
   }
+  .order-last {
+    order: 1;
+  }
 }
