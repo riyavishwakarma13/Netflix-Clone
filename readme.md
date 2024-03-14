@@ -4,7 +4,7 @@ This is a Netflix Clone project built using HTML and CSS. Traditional Method I s
 
 # Live Link
 
-https://netflix-clone-riyavishwakarma.vercel.app/](https://netflix-clone-html-css-git-master-riyavishwakarma13.vercel.app/
+https://netflix-clone-html-css-git-master-riyavishwakarma13.vercel.app/
 
 ## Installation
 
