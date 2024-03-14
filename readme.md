@@ -2,6 +2,8 @@
 
 This is a Netflix Clone project built using HTML and CSS. Traditional Method I see ;(
 
+![Alt text](https://netflix-clone-html-css-eight.vercel.app/assets/tv.png)
+
 # Live Link
 
 https://netflix-clone-riyavishwakarma.vercel.app/
