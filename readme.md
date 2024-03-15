@@ -2,10 +2,6 @@
 
 This is a Netflix Clone project built using HTML and CSS. Traditional Method I see ;(
 
-# Live Link
-
-https://netflix-clone-html-css-git-master-riyavishwakarma13.vercel.app/
-
 ## Installation
 
 To run this project locally, follow these steps:
