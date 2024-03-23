@@ -2,7 +2,10 @@
 
 This is a Netflix Clone project built using HTML and CSS. Traditional Method I see ;(
 
+# Demo
+
 [![Riya](/assets/Screenshot%202024-03-23%20192728.png)](/assets/Screenshot%202024-03-23%20192728.png)
+[![Riya](/assets/demo.gif)](/assets/demo.gif)
 
 ## Installation
 
