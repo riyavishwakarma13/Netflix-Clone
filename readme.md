@@ -2,6 +2,8 @@
 
 This is a Netflix Clone project built using HTML and CSS. Traditional Method I see ;(
 
+[![Riya](/assets/demo.mp4)](/assets/demo.mp4)
+
 ## Installation
 
 To run this project locally, follow these steps:
